@@ -1,0 +1,5 @@
+../Core/Src/pcf8574events.c:11:6:reset_highbeam_blinker_wiper_buttons	16	static
+../Core/Src/pcf8574events.c:22:6:repair_pcf8574	24	static
+../Core/Src/pcf8574events.c:31:6:set_highbeam_blinker_buttons	16	static
+../Core/Src/pcf8574events.c:45:9:get_wiper	24	static
+../Core/Src/pcf8574events.c:63:6:set_wiper_buttons	24	static

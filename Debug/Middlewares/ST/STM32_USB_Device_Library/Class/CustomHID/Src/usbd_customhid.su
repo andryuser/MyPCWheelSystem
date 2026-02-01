@@ -1,0 +1,12 @@
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:357:17:USBD_CUSTOM_HID_Init	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:403:17:USBD_CUSTOM_HID_DeInit	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:431:17:USBD_CUSTOM_HID_Setup	40	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:569:9:USBD_CUSTOM_HID_SendReport	32	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:601:18:USBD_CUSTOM_HID_GetFSCfgDesc	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:614:18:USBD_CUSTOM_HID_GetHSCfgDesc	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:627:18:USBD_CUSTOM_HID_GetOtherSpeedCfgDesc	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:640:17:USBD_CUSTOM_HID_DataIn	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:657:17:USBD_CUSTOM_HID_DataOut	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:679:16:USBD_CUSTOM_HID_EP0_RxReady	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:698:18:USBD_CUSTOM_HID_GetDeviceQualifierDesc	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c:710:10:USBD_CUSTOM_HID_RegisterInterface	24	static
