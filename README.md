@@ -1,1 +1,1 @@
-PC Wheel system with wheel, horn, pedals, gear shifter, force feedback for an STM32F103C8T6. Additionally, blinkers, windshield wipers and full beam connected via a PCF8574 I2C port expander. Works in Euro Truck Simulator 2 on Linux.
+PC Wheel system with wheel, horn, pedals, gear shifter, force feedback for an STM32F103C8T6. Additionally, blinkers, windshield wipers and full beam connected via a PCF8574 I2C port expander. Works in Euro Truck Simulator 2 on Linux. See Wiki for images.
